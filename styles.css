@@ -1,196 +1,217 @@
-#rectangulo{
-     width: 400px; 
-     height: 180px; 
+.rectangulo{
+
+     display: flex;
      border: 2.5px solid crimson;
-     
+     align-items: stretch ; 
+     flex-direction: row;
+     height: 200px;
+     width: 300px;
+
 }
 
-#uno{
+.uno{
+  
      width: 15px;
-     
      background-color: green;
      color: white;
-     vertical-align: top;
+     
 }
-#dos{
-     width: 15px;
+.dos{
+    
     
      background-color: blue;
      color: white;
-     vertical-align: top;
-}
-#tres{
      width: 15px;
      
+}
+.tres{
+     
+     width: 15px;
      background-color: blueviolet;
      color: white;
-     vertical-align: top;
+  
 }
-#cuatro{
+.cuatro{
      width: 15px;
      background-color: darkslategray;
      color: white;
      vertical-align: top;
 }
-#cinco{
+.cinco{
      width: 15px;
      background-color: yellow;
      color: white;
      vertical-align: top;
 }
-#seis{
+.seis{
      width: 15px;
      background-color: orange;
      color: white;
      vertical-align: top;
 }
-#siete{
+.siete{
      width: 15px;
      background-color: darkorange;
      color: white;
      vertical-align: top;
 }
-#ocho{
+.ocho{
      width: 15px;
      background-color: grey;
      color: white;
      vertical-align: top;
 }
-#nueve{
+.nueve{
      width: 15px;
      background-color: greenyellow;
      color: white;
      vertical-align: top;
+     position: relative;
 }
-#diez{
+.diez{
      width: 15px;
      background-color: darkgreen;
      color: white;
      vertical-align: top;
      position: relative;
 }
-#white{
+.white{
       width: 15px;
      background-color: white;
      
      vertical-align: top;
 
 }
-#rectanguloo{
-     width: 400px; 
+.rectanguloo{
+     
+     display: flex;
+     width: 200px; 
      height: 125px; 
      border: 2.5px solid crimson;
+      flex-direction: column-reverse;
      
 }
 
-#cuatroo{
-     width: 400px;
+.cuatroo{
+     width: 200px;
      background-color: darkslategray;
      color: white;
      vertical-align: middle;
 }
-#cincoo{
-     width: 400px;
+.cincoo{
+     width: 200px;
      background-color: yellow;
      color: white;
      vertical-align: middle;
 }
-#seiss{
-     width: 400px;
+.seiss{
+     width: 200px;
      background-color: orange;
      color: white;
      vertical-align: middle;
 }
-#sietee{
-     width: 400px;
+.sietee{
+     width: 200px;
      background-color: darkorange;
      color: white;
      align: middle;
 }
-#ochoo{
-     width: 400px;
+.ochoo{
+     width: 200px;
      background-color: grey;
      color: white;
      vertical-align: middle;
 }
-#nuevee{
-     width: 400px;
+.nuevee{
+     width: 200px;
      background-color: greenyellow;
      color: white;
      vertical-align: middle;
 }
-#diezz{
-     width: 400px;
+.diezz{
+     width: 200px;
      background-color: darkgreen;
      color: white;
      vertical-align: middle;
      
 }
-#rectanguloo{
-     width: 400px; 
-     height: 125px; 
+.rectangulo3{
+     display: flex;
+     flex-wrap: wrap;
+     width: 210px; 
+     height: 100px; 
      border: 2.5px solid crimson;
+     align-content: flex-start;
      
 }
-#uno{
-     width: 15px;
+.uno3{
+     width: 70px;
+     height: 25px;
      
      background-color: green;
      color: white;
      vertical-align: top;
 }
-#dos{
-     width: 15px;
-    
+.dos3{
+     width: 70px;
+     height: 25px;
      background-color: blue;
      color: white;
      vertical-align: top;
 }
-#tres{
-     width: 15px;
+.tres3{
+     width: 70px;
+     height: 25px;
      
      background-color: blueviolet;
      color: white;
      vertical-align: top;
 }
-#cuatro{
-     width: 15px;
+.cuatro3{
+     width: 70px;
+     height: 25px;
      background-color: darkslategray;
      color: white;
      vertical-align: top;
 }
-#cinco{
-     width: 15px;
+.cinco3{
+     width: 70px;
+     height: 25px;
      background-color: yellow;
      color: white;
      vertical-align: top;
 }
-#seis{
-     width: 15px;
+.seis3{
+     width: 70px;
+     height: 25px;
      background-color: orange;
      color: white;
      vertical-align: top;
 }
-#siete{
-     width: 15px;
+.siete3{
+     width: 70px;
+     height: 25px;
      background-color: darkorange;
      color: white;
      vertical-align: top;
 }
-#ocho{
-     width: 15px;
+.ocho3{
+     width: 70px;
+     height: 25px;
      background-color: grey;
      color: white;
      vertical-align: top;
 }
-#nueve{
-     width: 15px;
+.nueve3{
+     width: 70px;
+     height: 25px;
      background-color: greenyellow;
      color: white;
      vertical-align: top;
 }
-#diez{
-     width: 15px;
+.diez3{
+     width: 70px;
+     height: 25px;
      background-color: darkgreen;
      color: white;
      vertical-align: top;
