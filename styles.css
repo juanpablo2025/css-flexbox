@@ -1,0 +1,205 @@
+#rectangulo{
+     width: 400px; 
+     height: 180px; 
+     border: 2.5px solid crimson;
+     
+}
+
+#uno{
+     width: 15px;
+     
+     background-color: green;
+     color: white;
+     vertical-align: top;
+}
+#dos{
+     width: 15px;
+    
+     background-color: blue;
+     color: white;
+     vertical-align: top;
+}
+#tres{
+     width: 15px;
+     
+     background-color: blueviolet;
+     color: white;
+     vertical-align: top;
+}
+#cuatro{
+     width: 15px;
+     background-color: darkslategray;
+     color: white;
+     vertical-align: top;
+}
+#cinco{
+     width: 15px;
+     background-color: yellow;
+     color: white;
+     vertical-align: top;
+}
+#seis{
+     width: 15px;
+     background-color: orange;
+     color: white;
+     vertical-align: top;
+}
+#siete{
+     width: 15px;
+     background-color: darkorange;
+     color: white;
+     vertical-align: top;
+}
+#ocho{
+     width: 15px;
+     background-color: grey;
+     color: white;
+     vertical-align: top;
+}
+#nueve{
+     width: 15px;
+     background-color: greenyellow;
+     color: white;
+     vertical-align: top;
+}
+#diez{
+     width: 15px;
+     background-color: darkgreen;
+     color: white;
+     vertical-align: top;
+     position: relative;
+}
+#white{
+      width: 15px;
+     background-color: white;
+     
+     vertical-align: top;
+
+}
+#rectanguloo{
+     width: 400px; 
+     height: 125px; 
+     border: 2.5px solid crimson;
+     
+}
+
+#cuatroo{
+     width: 400px;
+     background-color: darkslategray;
+     color: white;
+     vertical-align: middle;
+}
+#cincoo{
+     width: 400px;
+     background-color: yellow;
+     color: white;
+     vertical-align: middle;
+}
+#seiss{
+     width: 400px;
+     background-color: orange;
+     color: white;
+     vertical-align: middle;
+}
+#sietee{
+     width: 400px;
+     background-color: darkorange;
+     color: white;
+     align: middle;
+}
+#ochoo{
+     width: 400px;
+     background-color: grey;
+     color: white;
+     vertical-align: middle;
+}
+#nuevee{
+     width: 400px;
+     background-color: greenyellow;
+     color: white;
+     vertical-align: middle;
+}
+#diezz{
+     width: 400px;
+     background-color: darkgreen;
+     color: white;
+     vertical-align: middle;
+     
+}
+#rectanguloo{
+     width: 400px; 
+     height: 125px; 
+     border: 2.5px solid crimson;
+     
+}
+#uno{
+     width: 15px;
+     
+     background-color: green;
+     color: white;
+     vertical-align: top;
+}
+#dos{
+     width: 15px;
+    
+     background-color: blue;
+     color: white;
+     vertical-align: top;
+}
+#tres{
+     width: 15px;
+     
+     background-color: blueviolet;
+     color: white;
+     vertical-align: top;
+}
+#cuatro{
+     width: 15px;
+     background-color: darkslategray;
+     color: white;
+     vertical-align: top;
+}
+#cinco{
+     width: 15px;
+     background-color: yellow;
+     color: white;
+     vertical-align: top;
+}
+#seis{
+     width: 15px;
+     background-color: orange;
+     color: white;
+     vertical-align: top;
+}
+#siete{
+     width: 15px;
+     background-color: darkorange;
+     color: white;
+     vertical-align: top;
+}
+#ocho{
+     width: 15px;
+     background-color: grey;
+     color: white;
+     vertical-align: top;
+}
+#nueve{
+     width: 15px;
+     background-color: greenyellow;
+     color: white;
+     vertical-align: top;
+}
+#diez{
+     width: 15px;
+     background-color: darkgreen;
+     color: white;
+     vertical-align: top;
+     position: relative;
+}
+#white{
+      width: 15px;
+     background-color: white;
+     
+     vertical-align: top;
+
+}
