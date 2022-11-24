@@ -217,10 +217,177 @@
      vertical-align: top;
      position: relative;
 }
-#white{
-      width: 15px;
-     background-color: white;
-     
-     vertical-align: top;
 
+.rectangulo4{
+     display: flex;
+     width: 200px; 
+     height: 13px; 
+     border: 2.5px solid crimson;
+     align-content: flex-start;
+     
+}
+.uno4{
+     width: 25px;
+     height: 15px;
+     
+     background-color: green;
+     color: white;
+     vertical-align: top;
+     order: 1;
+}
+.dos4{
+     width: 25px;
+     height: 15px;
+     background-color: blue;
+     color: white;
+     vertical-align: top;
+     order: 2;
+}
+.tres4{
+     width: 25px;
+     height: 15px;
+     background-color: blueviolet;
+     color: white;
+     vertical-align: top;
+     order: 3;
+}
+.cuatro4{
+     width: 25px;
+     height: 15px;
+     background-color: darkslategray;
+     color: white;
+     vertical-align: top;
+     order:4;
+}
+.cinco4{
+     width: 25px;
+     height: 15px;
+     background-color: yellow;
+     color: white;
+     vertical-align: top;
+     
+}
+.seis4{
+     width: 25px;
+     height: 15px;
+     background-color: orange;
+     color: white;
+     vertical-align: top;
+     order: 9;
+}
+.siete4{
+     width: 25px;
+     height: 15px;
+     background-color: darkorange;
+     color: white;
+     vertical-align: top;
+     order: 5;
+}
+.ocho4{
+     width: 25px;
+     height: 15px;
+     background-color: grey;
+     color: white;
+     vertical-align: top;
+     order: 6;
+}
+.nueve4{
+     width: 25px;
+     height: 15px;
+     background-color: greenyellow;
+     color: white;
+     vertical-align: top;
+     order: 7;
+}
+.diez4{
+     width: 25px;
+     height: 15px;
+     background-color: darkgreen;
+     color: white;
+     vertical-align: top;
+     position: relative;
+     order: 8;
+}
+.rectangulo5{
+     display: flex;
+     width: 300px; 
+     height: 200px; 
+     border: 2.5px solid crimson;
+     justify-content: space-between;
+      flex-direction: column;
+     
+     
+}
+.uno5{
+     width: 300px;
+     height: 10px;
+     
+     background-color: green;
+     color: white;
+     vertical-align: top;
+}
+.dos5{
+     width: 300px;
+     height: 10px;
+     background-color: blue;
+     color: white;
+     vertical-align: top;
+}
+.tres5{
+     width: 300px;
+     height: 10px;
+     
+     background-color: blueviolet;
+     color: white;
+     vertical-align: top;
+}
+.cuatro5{
+     width: 300px;
+     height: 10px;
+     background-color: darkslategray;
+     color: white;
+     vertical-align: top;
+}
+.cinco5{
+     width: 300px;
+     height: 10px;
+     background-color: yellow;
+     color: white;
+     vertical-align: top;
+}
+.seis5{
+     width: 300px;
+     height: 10px;
+     background-color: orange;
+     color: white;
+     vertical-align: top;
+}
+.siete5{
+     width: 300px;
+     height: 10px;
+     background-color: darkorange;
+     color: white;
+     vertical-align: top;
+}
+.ocho5{
+     width: 300px;
+     height: 10px;
+     background-color: grey;
+     color: white;
+     vertical-align: top;
+}
+.nueve5{
+     width: 300px;
+     height: 10px;
+     background-color: greenyellow;
+     color: white;
+     vertical-align: top;
+}
+.diez5{
+     width: 300px;
+     height: 10px;
+     background-color: darkgreen;
+     color: white;
+     vertical-align: top;
+     position: relative;
 }
