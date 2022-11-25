@@ -391,3 +391,417 @@
      vertical-align: top;
      position: relative;
 }
+.rectangulo6{
+
+     display: flex;
+     border: 2.5px solid crimson;
+     align-items: baseline;
+     flex-direction: row;
+     height: 200px;
+     width: 300px;
+
+}
+
+.uno6{
+     
+     
+     width: 15px;
+     height: 15px;
+     background-color: green;
+     color: white;
+     font-size:smaller;
+     
+}
+.dos6{
+    
+    
+     background-color: blue;
+     color: white;
+     width: 15px;
+     height: 30px;
+     font-size:medium;
+     
+}
+.tres6{
+     
+     width: 15px;
+     background-color: blueviolet;
+     color: white;
+     height: 40px;
+     font-size:larger;
+}
+.cuatro6{
+     width: 15px;
+     background-color: darkslategray;
+     color: white;
+     vertical-align: top;
+     height: 60px;
+     font-size:xx-large;
+}
+.cinco6{
+     width: 15px;
+     background-color: yellow;
+     color: white;
+     vertical-align: top;
+     height: 10px;
+     font-size:x-small;
+}
+.seis6{
+     width: 15px;
+     background-color: orange;
+     color: white;
+     vertical-align: top;
+     height: 25px;
+     font-size:larger;
+}
+.siete6{
+     width: 15px;
+     background-color: darkorange;
+     color: white;
+     vertical-align: top;
+     height: 25px;
+     font-size:larger;
+}
+.ocho6{
+     width: 15px;
+     background-color: grey;
+     color: white;
+     vertical-align: top;
+     height: 25px;
+     font-size:larger;
+}
+.nueve6{
+     width: 15px;
+     background-color: greenyellow;
+     color: white;
+     vertical-align: top;
+     height: 25px;
+     font-size:larger;
+}
+.diez6{
+     width: 15px;
+     background-color: darkgreen;
+     color: white;
+     font-size:medium;
+     
+     vertical-align: top;
+     height: 20px;
+}
+.rectangulo7{
+     display: flex;
+     flex-wrap: wrap;
+     width: 210px; 
+     height: 150px; 
+     border: 2.5px solid crimson;
+     align-content:center;
+     
+}
+.uno7{
+     width: 70px;
+     height: 25px;
+     
+     background-color: green;
+     color: white;
+     vertical-align: top;
+}
+.dos7{
+     width: 70px;
+     height: 25px;
+     background-color: blue;
+     color: white;
+     vertical-align: top;
+}
+.tres7{
+     width: 70px;
+     height: 25px;
+     
+     background-color: blueviolet;
+     color: white;
+     vertical-align: top;
+}
+.cuatro7{
+     width: 70px;
+     height: 25px;
+     background-color: darkslategray;
+     color: white;
+     vertical-align: top;
+}
+.cinco7{
+     width: 70px;
+     height: 25px;
+     background-color: yellow;
+     color: white;
+     vertical-align: top;
+}
+.seis7{
+     width: 70px;
+     height: 25px;
+     background-color: orange;
+     color: white;
+     vertical-align: top;
+}
+.siete7{
+     width: 70px;
+     height: 25px;
+     background-color: darkorange;
+     color: white;
+     vertical-align: top;
+}
+.ocho7{
+     width: 70px;
+     height: 25px;
+     background-color: grey;
+     color: white;
+     vertical-align: top;
+}
+.nueve7{
+     width: 70px;
+     height: 25px;
+     background-color: greenyellow;
+     color: white;
+     vertical-align: top;
+}
+.diez7{
+     width: 70px;
+     height: 25px;
+     background-color: white;
+     color: white;
+     vertical-align: top;
+     
+}
+.diez72{
+     width: 70px;
+     height: 25px;
+     background-color: darkgreen;
+     color: white;
+     vertical-align: top;
+     
+}
+.rectangulo8{
+     display: flex;
+     
+     width: 210px; 
+     height: 150px; 
+     border: 2.5px solid crimson;
+     align-content:flex-start;
+     
+}
+.uno8{
+     width: 25px;
+     height: 15px;
+     
+     background-color: green;
+     color: white;
+     vertical-align: top;
+}
+.dos8{
+     width: 25px;
+     
+     background-color: blue;
+     color: white;
+     vertical-align: top;
+     align-items: stretch;
+     
+}
+.tres8{
+     width: 25px;
+     height: 15px;
+     
+     background-color: blueviolet;
+     color: white;
+     vertical-align: top;
+}
+.cuatro8{
+     width: 25px;
+     height: 15px;
+     background-color: darkslategray;
+     color: white;
+     vertical-align: top;
+}
+.cinco8{
+     width: 25px;
+     height: 15px;
+     background-color: yellow;
+     color: white;
+     vertical-align: top;
+}
+.seis8{
+     width: 25px;
+     height: 15px;
+     background-color: orange;
+     color: white;
+     
+}
+.siete8{
+     width: 25px;
+     height: 15px;
+     background-color: darkorange;
+     color: white;
+     vertical-align: top;
+}
+.ocho8{
+     width: 25px;
+     height: 15px;
+     background-color: grey;
+     color: white;
+     vertical-align: top;
+}
+.nueve8{
+     width: 25px;
+     height: 15px;
+     background-color: greenyellow;
+     color: white;
+     vertical-align: top;
+}
+.diez8{
+     width: 25px;
+     height: 15px;
+     background-color: darkgreen ;
+     color: white;
+     vertical-align: top;
+     
+}
+.rectangulo9{
+     display: flex;
+     
+     width: 210px; 
+     height: 15px; 
+     border: 2.5px solid crimson;
+     align-content:flex-start;
+     
+}
+.uno9{
+     width: 25px;
+     height: 15px;
+     
+     background-color: green;
+     color: white;
+     vertical-align: top;
+}
+.dos9{
+     width: 25px;
+     
+     background-color: blue;
+     color: white;
+     vertical-align: top;
+     
+}
+.tres9{
+     width: 25px;
+     height: 15px;
+     
+     background-color: blueviolet;
+     color: white;
+     vertical-align: top;
+}
+.cuatro9{
+     width: 25px;
+     height: 15px;
+     background-color: darkslategray;
+     color: white;
+     vertical-align: top;
+}
+.cinco9{
+     width: 25px;
+     height: 15px;
+     background-color: yellow;
+     color: white;
+     vertical-align: top;
+}
+.seis9{
+     width: 25px;
+     height: 15px;
+     background-color: orange;
+     color: white;
+     
+}
+.siete9{
+     width: 25px;
+     height: 15px;
+     background-color: darkorange;
+     color: white;
+     vertical-align: top;
+}
+.ocho9{
+     width: 25px;
+     height: 15px;
+     background-color: grey;
+     color: white;
+     vertical-align: top;
+}
+.nueve9{
+     width: 25px;
+     height: 15px;
+     background-color: greenyellow;
+     color: white;
+     vertical-align: top;
+}
+.diez9{
+     width: 25px;
+     height: 15px;
+     background-color: darkgreen ;
+     color: white;
+     vertical-align: top;
+     
+}
+.rectangulo10{
+     display: flex;
+     flex-wrap: wrap;
+     width: 300px; 
+     height: 250px; 
+     border: 2.5px solid crimson;
+    align-content:flex-start;
+     
+}
+.uno10{
+     width: 150px;
+     height: 50px;
+     
+     background-color: green;
+     color: white;
+     vertical-align: top;
+     order:1;
+}
+.dos10{
+     width: 150px;
+     height: 50px;
+     background-color: blue;
+     color: white;
+     vertical-align: top;
+     order:3;
+}
+.tres10{
+     width: 150px;
+     height: 50px;
+     order:5;
+     
+     background-color: blueviolet;
+     color: white;
+     vertical-align: top;
+}
+.cuatro10{
+     width: 150px;
+     height: 50px;
+     background-color: darkslategray;
+     color: white;
+     vertical-align: top;
+     order:6;
+}
+.cinco10{
+     width: 150px;
+     height: 80px;
+     background-color: yellow;
+     color: white;
+     vertical-align: top;
+     order:2;
+}
+.seis10{
+     width: 150px;
+     height: 80px;
+     background-color: orange;
+     color: white;
+     vertical-align: top;
+     order:4;
+}
+
+
