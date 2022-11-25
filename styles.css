@@ -137,7 +137,7 @@
 }
 .rectangulo3{
      display: flex;
-     flex-wrap: wrap;
+     flex-flow:wrap;
      width: 210px; 
      height: 100px; 
      border: 2.5px solid crimson;
@@ -208,14 +208,15 @@
      background-color: greenyellow;
      color: white;
      vertical-align: top;
+     justify-self: center;
 }
 .diez3{
      width: 70px;
      height: 25px;
      background-color: darkgreen;
      color: white;
-     vertical-align: top;
-     position: relative;
+     
+     
 }
 
 .rectangulo4{
@@ -405,7 +406,7 @@
 .uno6{
      
      
-     width: 15px;
+     width: 20px;
      height: 15px;
      background-color: green;
      color: white;
@@ -417,29 +418,29 @@
     
      background-color: blue;
      color: white;
-     width: 15px;
-     height: 30px;
+     width: 20px;
+     height: 25px;
      font-size:medium;
      
 }
 .tres6{
      
-     width: 15px;
+     width: 20px;
      background-color: blueviolet;
      color: white;
-     height: 40px;
+     height: 30px;
      font-size:larger;
 }
 .cuatro6{
-     width: 15px;
+     width: 20px;
      background-color: darkslategray;
      color: white;
      vertical-align: top;
-     height: 60px;
+     height: 45px;
      font-size:xx-large;
 }
 .cinco6{
-     width: 15px;
+     width: 20px;
      background-color: yellow;
      color: white;
      vertical-align: top;
@@ -447,7 +448,7 @@
      font-size:x-small;
 }
 .seis6{
-     width: 15px;
+     width: 20px;
      background-color: orange;
      color: white;
      vertical-align: top;
@@ -455,7 +456,7 @@
      font-size:larger;
 }
 .siete6{
-     width: 15px;
+     width: 20px;
      background-color: darkorange;
      color: white;
      vertical-align: top;
@@ -463,7 +464,7 @@
      font-size:larger;
 }
 .ocho6{
-     width: 15px;
+     width: 20px;
      background-color: grey;
      color: white;
      vertical-align: top;
@@ -471,7 +472,7 @@
      font-size:larger;
 }
 .nueve6{
-     width: 15px;
+     width: 20px;
      background-color: greenyellow;
      color: white;
      vertical-align: top;
@@ -479,7 +480,7 @@
      font-size:larger;
 }
 .diez6{
-     width: 15px;
+     width: 20px;
      background-color: darkgreen;
      color: white;
      font-size:medium;
@@ -568,6 +569,7 @@
      color: white;
      vertical-align: top;
      
+     
 }
 .diez72{
      width: 70px;
@@ -576,14 +578,14 @@
      color: white;
      vertical-align: top;
      
+     
 }
+
 .rectangulo8{
      display: flex;
-     
-     width: 210px; 
-     height: 150px; 
      border: 2.5px solid crimson;
-     align-content:flex-start;
+     width: 210px; 
+     height: 150px;
      
 }
 .uno8{
@@ -626,10 +628,12 @@
      vertical-align: top;
 }
 .seis8{
+     grid-column: auto;
      width: 25px;
      height: 15px;
      background-color: orange;
      color: white;
+     align-self:center;
      
 }
 .siete8{
@@ -652,6 +656,7 @@
      background-color: greenyellow;
      color: white;
      vertical-align: top;
+      align-self:end;
 }
 .diez8{
      width: 25px;
@@ -660,18 +665,19 @@
      color: white;
      vertical-align: top;
      
+     
 }
 .rectangulo9{
      display: flex;
      
-     width: 210px; 
+     width: 400px; 
      height: 15px; 
      border: 2.5px solid crimson;
      align-content:flex-start;
      
 }
 .uno9{
-     width: 25px;
+     width: 60px;
      height: 15px;
      
      background-color: green;
@@ -679,7 +685,7 @@
      vertical-align: top;
 }
 .dos9{
-     width: 25px;
+     width: 85px;
      
      background-color: blue;
      color: white;
@@ -687,7 +693,7 @@
      
 }
 .tres9{
-     width: 25px;
+     width: 60px;
      height: 15px;
      
      background-color: blueviolet;
@@ -695,49 +701,49 @@
      vertical-align: top;
 }
 .cuatro9{
-     width: 25px;
+     width: 60px;
      height: 15px;
      background-color: darkslategray;
      color: white;
      vertical-align: top;
 }
 .cinco9{
-     width: 25px;
+     width: 85px;
      height: 15px;
      background-color: yellow;
      color: white;
      vertical-align: top;
 }
 .seis9{
-     width: 25px;
+     width: 60px;
      height: 15px;
      background-color: orange;
      color: white;
      
 }
 .siete9{
-     width: 25px;
+     width: 60px;
      height: 15px;
      background-color: darkorange;
      color: white;
      vertical-align: top;
 }
 .ocho9{
-     width: 25px;
+     width: 60px;
      height: 15px;
      background-color: grey;
      color: white;
      vertical-align: top;
 }
 .nueve9{
-     width: 25px;
+     width: 60px;
      height: 15px;
      background-color: greenyellow;
      color: white;
      vertical-align: top;
 }
 .diez9{
-     width: 25px;
+     width: 60px;
      height: 15px;
      background-color: darkgreen ;
      color: white;
@@ -767,7 +773,7 @@
      height: 50px;
      background-color: blue;
      color: white;
-     vertical-align: top;
+     align-self: flex-start;
      order:3;
 }
 .tres10{
@@ -802,6 +808,8 @@
      color: white;
      vertical-align: top;
      order:4;
+     flex-wrap: wrap;
 }
+
 
 
