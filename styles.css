@@ -672,7 +672,7 @@
      
      width: 400px; 
      height: 15px; 
-     border: 2.5px solid crimson;
+     
      align-content:flex-start;
      
 }
@@ -751,17 +751,27 @@
      
 }
 .rectangulo10{
-     display: flex;
-     flex-wrap: wrap;
+     display:flex;
      width: 300px; 
-     height: 250px; 
+     height: 160px; 
      border: 2.5px solid crimson;
-    align-content:flex-start;
+    
+    
      
+}
+.column{
+     width: 150px; 
+     height: 160px;
+    
+
+}
+.column2{
+     width: 150px; 
+     height: 160px;
 }
 .uno10{
      width: 150px;
-     height: 50px;
+     height: 45px;
      
      background-color: green;
      color: white;
@@ -770,15 +780,15 @@
 }
 .dos10{
      width: 150px;
-     height: 50px;
+     height: 40px;
      background-color: blue;
      color: white;
-     align-self: flex-start;
+     
      order:3;
 }
 .tres10{
      width: 150px;
-     height: 50px;
+     height: 55px;
      order:5;
      
      background-color: blueviolet;
@@ -787,7 +797,7 @@
 }
 .cuatro10{
      width: 150px;
-     height: 50px;
+     height: 20px;
      background-color: darkslategray;
      color: white;
      vertical-align: top;
@@ -809,6 +819,7 @@
      vertical-align: top;
      order:4;
      flex-wrap: wrap;
+     
 }
 
 
