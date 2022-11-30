@@ -671,14 +671,14 @@
      display: flex;
      
      width: 400px; 
-     height: 15px; 
+     height: 25px; 
      
      align-content:flex-start;
      
 }
 .uno9{
      width: 60px;
-     height: 15px;
+     
      
      background-color: green;
      color: white;
@@ -694,60 +694,31 @@
 }
 .tres9{
      width: 60px;
-     height: 15px;
+     
      
      background-color: blueviolet;
      color: white;
      vertical-align: top;
 }
 .cuatro9{
-     width: 60px;
-     height: 15px;
+     width: 75px;
+    
      background-color: darkslategray;
      color: white;
      vertical-align: top;
 }
 .cinco9{
      width: 85px;
-     height: 15px;
+ 
      background-color: yellow;
      color: white;
      vertical-align: top;
 }
 .seis9{
      width: 60px;
-     height: 15px;
+    
      background-color: orange;
      color: white;
-     
-}
-.siete9{
-     width: 60px;
-     height: 15px;
-     background-color: darkorange;
-     color: white;
-     vertical-align: top;
-}
-.ocho9{
-     width: 60px;
-     height: 15px;
-     background-color: grey;
-     color: white;
-     vertical-align: top;
-}
-.nueve9{
-     width: 60px;
-     height: 15px;
-     background-color: greenyellow;
-     color: white;
-     vertical-align: top;
-}
-.diez9{
-     width: 60px;
-     height: 15px;
-     background-color: darkgreen ;
-     color: white;
-     vertical-align: top;
      
 }
 .rectangulo10{
