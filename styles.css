@@ -5,72 +5,72 @@
      align-items: stretch ; 
      flex-direction: row;
      height: 200px;
-     width: 300px;
+     width: 500px;
 
 }
 
 .uno{
   
-     width: 15px;
-     background-color: green;
+     width: 20px;
+     background-color: rgba(26,188,156,255);
      color: white;
      
 }
 .dos{
     
     
-     background-color: blue;
+     background-color: rgba(52,152,219,255);
      color: white;
-     width: 15px;
+     width: 20px;
      
 }
 .tres{
      
-     width: 15px;
-     background-color: blueviolet;
+     width: 20px;
+     background-color: rgba(155,89,182,255);
      color: white;
   
 }
 .cuatro{
-     width: 15px;
-     background-color: darkslategray;
+     width: 20px;
+     background-color: rgba(52,73,94,255);
      color: white;
      vertical-align: top;
 }
 .cinco{
-     width: 15px;
-     background-color: yellow;
+     width: 20px;
+     background-color: rgba(241,196,15,255);
      color: white;
      vertical-align: top;
 }
 .seis{
-     width: 15px;
-     background-color: orange;
+     width: 20px;
+     background-color: rgba(230,126,34,255);
      color: white;
      vertical-align: top;
 }
 .siete{
-     width: 15px;
-     background-color: darkorange;
+     width: 20px;
+     background-color: rgba(250, 80, 70,255);
      color: white;
      vertical-align: top;
 }
 .ocho{
-     width: 15px;
-     background-color: grey;
+     width: 20px;
+     background-color:rgba(180, 180, 180,255);
      color: white;
      vertical-align: top;
 }
 .nueve{
-     width: 15px;
-     background-color: greenyellow;
+     width: 20px;
+     background-color:  rgba(61, 200, 113,255);
      color: white;
      vertical-align: top;
      position: relative;
 }
 .diez{
-     width: 15px;
-     background-color: darkgreen;
+     width: 20px;
+     background-color:rgba(30, 155, 110,255);
      color: white;
      vertical-align: top;
      position: relative;
@@ -85,135 +85,144 @@
 .rectanguloo{
      
      display: flex;
-     width: 200px; 
-     height: 125px; 
+     width: 500px; 
+     height: 140px; 
      border: 2.5px solid crimson;
-      flex-direction: column-reverse;
+     flex-direction: column-reverse;
+     align-items: stretch ; 
      
 }
 
 .cuatroo{
-     width: 200px;
-     background-color: darkslategray;
+    
+     background-color: rgba(52,73,94,255);
      color: white;
      vertical-align: middle;
+     height: 21px;
 }
 .cincoo{
-     width: 200px;
-     background-color: yellow;
+     
+     background-color: rgba(241,196,15,255);
      color: white;
      vertical-align: middle;
+     height: 21px;
 }
 .seiss{
-     width: 200px;
-     background-color: orange;
+     
+     background-color: rgba(230,126,34,255);
      color: white;
      vertical-align: middle;
+     height: 21px;
 }
 .sietee{
-     width: 200px;
-     background-color: darkorange;
+     
+     background-color: rgba(250, 80, 70,255);
      color: white;
      align: middle;
+     height: 21px;
 }
 .ochoo{
-     width: 200px;
-     background-color: grey;
+     
+     background-color: rgba(180, 180, 180,255);
      color: white;
      vertical-align: middle;
+     height: 21px;
 }
 .nuevee{
-     width: 200px;
-     background-color: greenyellow;
+     
+     background-color:  rgb(61, 200, 113,255);
      color: white;
      vertical-align: middle;
+     height: 21px;
 }
 .diezz{
-     width: 200px;
-     background-color: darkgreen;
+    
+     background-color: rgba(30, 155, 110,255);
      color: white;
      vertical-align: middle;
+     height: 21px;
      
 }
 .rectangulo3{
      display: flex;
      flex-flow:wrap;
-     width: 210px; 
-     height: 100px; 
+     width: 600px; 
+     height: 300px; 
      border: 2.5px solid crimson;
      align-content: flex-start;
      
+     
 }
 .uno3{
-     width: 70px;
-     height: 25px;
+     width: 200px;
+     height: 75px;
      
-     background-color: green;
+     background-color: rgba(26,188,156,255);
      color: white;
      vertical-align: top;
 }
 .dos3{
-     width: 70px;
-     height: 25px;
-     background-color: blue;
+     width: 200px;
+     height: 75px;
+     background-color: rgba(52,152,219,255);
      color: white;
      vertical-align: top;
 }
 .tres3{
-     width: 70px;
-     height: 25px;
+     width: 200px;
+     height: 75px;
      
-     background-color: blueviolet;
+     background-color: rgba(155,89,182,255);
      color: white;
      vertical-align: top;
 }
 .cuatro3{
-     width: 70px;
-     height: 25px;
-     background-color: darkslategray;
+     width: 200px;
+     height: 75px;
+     background-color: rgba(52,73,94,255);
      color: white;
      vertical-align: top;
 }
 .cinco3{
-     width: 70px;
-     height: 25px;
-     background-color: yellow;
+     width: 200px;
+     height: 75px;
+     background-color: rgba(241,196,15,255);
      color: white;
      vertical-align: top;
 }
 .seis3{
-     width: 70px;
-     height: 25px;
-     background-color: orange;
+     width: 200px;
+     height: 75px;
+     background-color: rgba(230,126,34,255);
      color: white;
      vertical-align: top;
 }
 .siete3{
-     width: 70px;
-     height: 25px;
-     background-color: darkorange;
+     width: 200px;
+     height: 75px;
+     background-color: rgba(250, 80, 70,255);
      color: white;
      vertical-align: top;
 }
 .ocho3{
-     width: 70px;
-     height: 25px;
-     background-color: grey;
+     width: 200px;
+     height: 75px;
+     background-color: rgba(180, 180, 180,255);
      color: white;
      vertical-align: top;
 }
 .nueve3{
-     width: 70px;
-     height: 25px;
-     background-color: greenyellow;
+     width: 200px;
+     height: 75px;
+     background-color: rgb(61, 200, 113,255);
      color: white;
      vertical-align: top;
      justify-self: center;
 }
 .diez3{
-     width: 70px;
-     height: 25px;
-     background-color: darkgreen;
+     width: 200px;
+     height: 75px;
+     background-color: rgba(30, 155, 110,255);
      color: white;
      
      
@@ -221,89 +230,82 @@
 
 .rectangulo4{
      display: flex;
-     width: 200px; 
-     height: 13px; 
+     width: 400px; 
+     height: 30px; 
      border: 2.5px solid crimson;
      align-content: flex-start;
+     align-items: stretch ; 
      
 }
 .uno4{
-     width: 25px;
-     height: 15px;
+     width: 40px;
+    
      
-     background-color: green;
+     background-color: rgba(26,188,156,255);
      color: white;
      vertical-align: top;
      order: 1;
 }
 .dos4{
-     width: 25px;
-     height: 15px;
-     background-color: blue;
+     width: 40px;
+     background-color: rgba(52,152,219,255);
      color: white;
      vertical-align: top;
      order: 2;
 }
 .tres4{
-     width: 25px;
-     height: 15px;
-     background-color: blueviolet;
+     width: 40px;
+     background-color: rgba(155,89,182,255);
      color: white;
      vertical-align: top;
      order: 3;
 }
 .cuatro4{
-     width: 25px;
-     height: 15px;
-     background-color: darkslategray;
+     width: 40px;
+     background-color: rgba(52,73,94,255);
      color: white;
      vertical-align: top;
      order:4;
 }
 .cinco4{
-     width: 25px;
-     height: 15px;
-     background-color: yellow;
+     width: 40px;
+     background-color: rgba(241,196,15,255);
      color: white;
      vertical-align: top;
      
+     
 }
 .seis4{
-     width: 25px;
-     height: 15px;
-     background-color: orange;
+    width: 40px;
+     background-color: rgba(230,126,34,255);
      color: white;
      vertical-align: top;
      order: 9;
 }
 .siete4{
-     width: 25px;
-     height: 15px;
-     background-color: darkorange;
+     width: 40px;
+     background-color: rgba(250, 80, 70,255);
      color: white;
      vertical-align: top;
      order: 5;
 }
 .ocho4{
-     width: 25px;
-     height: 15px;
-     background-color: grey;
+     width: 40px;
+     background-color: rgba(180, 180, 180,255);
      color: white;
      vertical-align: top;
      order: 6;
 }
 .nueve4{
-     width: 25px;
-     height: 15px;
-     background-color: greenyellow;
+     width: 40px;
+     background-color: rgba(61, 200, 113,255);
      color: white;
      vertical-align: top;
      order: 7;
 }
 .diez4{
-     width: 25px;
-     height: 15px;
-     background-color: darkgreen;
+     width: 40px;
+     background-color:rgba(30, 155, 110,255);
      color: white;
      vertical-align: top;
      position: relative;
@@ -311,83 +313,86 @@
 }
 .rectangulo5{
      display: flex;
-     width: 300px; 
-     height: 200px; 
+     width: 400px; 
+     height: 300px; 
      border: 2.5px solid crimson;
      justify-content: space-between;
-      flex-direction: column;
+     flex-direction: column;
+     align-items: stretch ; 
+
+     
      
      
 }
 .uno5{
-     width: 300px;
+     
      height: 10px;
      
-     background-color: green;
+     background-color: rgba(26,188,156,255);
      color: white;
      vertical-align: top;
 }
 .dos5{
-     width: 300px;
+     
      height: 10px;
-     background-color: blue;
+     background-color: rgba(52,152,219,255);
      color: white;
      vertical-align: top;
 }
 .tres5{
-     width: 300px;
+     
      height: 10px;
      
-     background-color: blueviolet;
+     background-color: rgba(155,89,182,255);
      color: white;
      vertical-align: top;
 }
 .cuatro5{
-     width: 300px;
+     
      height: 10px;
-     background-color: darkslategray;
+     background-color:rgba(52,73,94,255);
      color: white;
      vertical-align: top;
 }
 .cinco5{
-     width: 300px;
+   
      height: 10px;
-     background-color: yellow;
+     background-color: rgba(241,196,15,255);
      color: white;
      vertical-align: top;
 }
 .seis5{
-     width: 300px;
+     
      height: 10px;
-     background-color: orange;
+     background-color: rgba(230,126,34,255);
      color: white;
      vertical-align: top;
 }
 .siete5{
-     width: 300px;
+     
      height: 10px;
-     background-color: darkorange;
+     background-color: rgba(250, 80, 70,255);
      color: white;
      vertical-align: top;
 }
 .ocho5{
-     width: 300px;
+    
      height: 10px;
-     background-color: grey;
+     background-color: rgba(180, 180, 180,255);
      color: white;
      vertical-align: top;
 }
 .nueve5{
-     width: 300px;
+     
      height: 10px;
-     background-color: greenyellow;
+     background-color: rgba(61, 200, 113,255);
      color: white;
      vertical-align: top;
 }
 .diez5{
-     width: 300px;
+     
      height: 10px;
-     background-color: darkgreen;
+     background-color:rgba(30, 155, 110,255);
      color: white;
      vertical-align: top;
      position: relative;
@@ -399,7 +404,7 @@
      align-items: baseline;
      flex-direction: row;
      height: 200px;
-     width: 300px;
+     width: 500px;
 
 }
 
@@ -408,7 +413,7 @@
      
      width: 20px;
      height: 15px;
-     background-color: green;
+     background-color: rgba(26,188,156,255);
      color: white;
      font-size:smaller;
      
@@ -416,7 +421,7 @@
 .dos6{
     
     
-     background-color: blue;
+     background-color:  rgba(52,152,219,255);
      color: white;
      width: 20px;
      height: 25px;
@@ -426,14 +431,14 @@
 .tres6{
      
      width: 20px;
-     background-color: blueviolet;
+     background-color: rgba(155,89,182,255);
      color: white;
      height: 30px;
      font-size:larger;
 }
 .cuatro6{
      width: 20px;
-     background-color: darkslategray;
+     background-color: rgba(52,73,94,255);
      color: white;
      vertical-align: top;
      height: 45px;
@@ -441,7 +446,7 @@
 }
 .cinco6{
      width: 20px;
-     background-color: yellow;
+     background-color:rgba(241,196,15,255);
      color: white;
      vertical-align: top;
      height: 10px;
@@ -449,7 +454,7 @@
 }
 .seis6{
      width: 20px;
-     background-color: orange;
+     background-color: rgba(230,126,34,255);
      color: white;
      vertical-align: top;
      height: 25px;
@@ -457,7 +462,7 @@
 }
 .siete6{
      width: 20px;
-     background-color: darkorange;
+     background-color: rgba(250, 80, 70,255);
      color: white;
      vertical-align: top;
      height: 25px;
@@ -465,7 +470,7 @@
 }
 .ocho6{
      width: 20px;
-     background-color: grey;
+     background-color: rgba(180, 180, 180,255);
      color: white;
      vertical-align: top;
      height: 25px;
@@ -473,7 +478,7 @@
 }
 .nueve6{
      width: 20px;
-     background-color: greenyellow;
+     background-color:  rgba(61, 200, 113,255);
      color: white;
      vertical-align: top;
      height: 25px;
@@ -481,7 +486,7 @@
 }
 .diez6{
      width: 20px;
-     background-color: darkgreen;
+     background-color: rgba(30, 155, 110,255);
      color: white;
      font-size:medium;
      
@@ -489,94 +494,101 @@
      height: 20px;
 }
 .rectangulo7{
-     display: flex;
-     flex-wrap: wrap;
-     width: 210px; 
-     height: 150px; 
-     border: 2.5px solid crimson;
-     align-content:center;
+    
+          display: flex;
+          flex-flow:wrap;
+          width: 600px; 
+          height: 300px; 
+          border: 2.5px solid crimson;
+          align-content: flex-start;
+          
+          
+     
      
 }
 .uno7{
-     width: 70px;
-     height: 25px;
-     
-     background-color: green;
+     margin-top: 60px;
+     width: 200px;
+     height: 50px; 
+     background-color: rgba(26,188,156,255);
      color: white;
-     vertical-align: top;
+     
+   
 }
 .dos7{
-     width: 70px;
-     height: 25px;
-     background-color: blue;
+     margin-top: 60px;
+     width: 200px;
+     height: 50px; 
+     background-color: rgba(52,152,219,255);
      color: white;
-     vertical-align: top;
+     
 }
 .tres7{
-     width: 70px;
-     height: 25px;
+     margin-top: 60px;
+     width: 200px;
+     height: 50px;  
      
-     background-color: blueviolet;
+     background-color: rgba(155,89,182,255);
      color: white;
-     vertical-align: top;
+    
 }
 .cuatro7{
-     width: 70px;
-     height: 25px;
-     background-color: darkslategray;
+     width: 200px;
+     height: 50px; 
+     background-color: rgba(52,73,94,255);
      color: white;
-     vertical-align: top;
+    
 }
 .cinco7{
-     width: 70px;
-     height: 25px;
-     background-color: yellow;
+     width: 200px;
+     height: 50px;  
+     background-color: rgba(241,196,15,255);
      color: white;
-     vertical-align: top;
+    
 }
 .seis7{
-     width: 70px;
-     height: 25px;
-     background-color: orange;
+     width: 200px;
+     height: 50px; 
+     background-color: rgba(230,126,34,255);
      color: white;
-     vertical-align: top;
+   
 }
 .siete7{
-     width: 70px;
-     height: 25px;
-     background-color: darkorange;
+     width: 200px;
+     height: 50px; 
+     background-color: rgba(250, 80, 70,255);
      color: white;
-     vertical-align: top;
+ 
 }
 .ocho7{
-     width: 70px;
-     height: 25px;
-     background-color: grey;
+     width: 200px;
+     height: 50px;  
+     background-color:rgba(180, 180, 180,255); 
      color: white;
-     vertical-align: top;
+     
 }
 .nueve7{
-     width: 70px;
-     height: 25px;
-     background-color: greenyellow;
+     width: 200px;
+     height: 50px; 
+     background-color: rgba(61, 200, 113,255);
      color: white;
-     vertical-align: top;
+    
 }
 .diez7{
-     width: 70px;
-     height: 25px;
+     width: 200px;
+     height: 50px; 
      background-color: white;
      color: white;
-     vertical-align: top;
+    
      
      
 }
 .diez72{
-     width: 70px;
-     height: 25px;
-     background-color: darkgreen;
+     width: 200px;
+     height: 50px;  
+     background-color:rgba(30, 155, 110,255);
      color: white;
-     vertical-align: top;
+    
      
      
 }
@@ -584,210 +596,197 @@
 .rectangulo8{
      display: flex;
      border: 2.5px solid crimson;
-     width: 210px; 
-     height: 150px;
+     width: 400px; 
+     height: 300px;
      
 }
 .uno8{
-     width: 25px;
-     height: 15px;
+     width: 50px;
+     height: 30px;
      
-     background-color: green;
+     background-color: rgba(26,188,156,255);
      color: white;
-     vertical-align: top;
+     
 }
 .dos8{
-     width: 25px;
+     width: 50px;
      
-     background-color: blue;
+     background-color: rgba(52,152,219,255);
      color: white;
      vertical-align: top;
      align-items: stretch;
      
 }
 .tres8{
-     width: 25px;
-     height: 15px;
+     width: 50px;
+     height: 30px;
      
-     background-color: blueviolet;
+     background-color:rgba(155,89,182,255);
      color: white;
-     vertical-align: top;
+    
 }
 .cuatro8{
-     width: 25px;
-     height: 15px;
-     background-color: darkslategray;
+     width: 50px;
+     height: 30px;
+     background-color: rgba(52,73,94,255);
      color: white;
      vertical-align: top;
 }
 .cinco8{
-     width: 25px;
-     height: 15px;
-     background-color: yellow;
+     width: 50px;
+     height: 30px;
+     background-color: rgba(241,196,15,255);
      color: white;
-     vertical-align: top;
+     
 }
 .seis8{
      grid-column: auto;
-     width: 25px;
-     height: 15px;
-     background-color: orange;
+     width: 50px;
+     height: 30px;
+     background-color:  rgba(230,126,34,255);
      color: white;
      align-self:center;
-     
+    
 }
 .siete8{
-     width: 25px;
-     height: 15px;
-     background-color: darkorange;
+     width: 50px;
+     height: 30px;
+     background-color:rgba(250, 80, 70,255);
      color: white;
-     vertical-align: top;
+    
 }
 .ocho8{
-     width: 25px;
-     height: 15px;
-     background-color: grey;
+     width: 50px;
+     height: 30px;
+     background-color: rgba(180, 180, 180,255);
      color: white;
-     vertical-align: top;
+     
 }
 .nueve8{
-     width: 25px;
-     height: 15px;
-     background-color: greenyellow;
+     width: 50px;
+     height: 50px;
+     background-color: rgba(61, 200, 113,255);
      color: white;
-     vertical-align: top;
-      align-self:end;
+     align-self:end;
 }
 .diez8{
-     width: 25px;
-     height: 15px;
-     background-color: darkgreen ;
+     width: 50px;
+     height: 30px;
+     background-color:rgba(30, 155, 110,255); 
      color: white;
-     vertical-align: top;
-     
-     
 }
 .rectangulo9{
      display: flex;
-     
-     width: 400px; 
-     height: 25px; 
-     
+     width: 600px; 
+     height: 25px;
      align-content:flex-start;
-     
-}
+     }
 .uno9{
-     width: 60px;
-     
-     
-     background-color: green;
+     width: 75px;
+     background-color: rgba(26,188,156,255);
      color: white;
      vertical-align: top;
 }
 .dos9{
-     width: 85px;
-     
-     background-color: blue;
+     width: 150px;
+     background-color: rgba(52,152,219,255);
      color: white;
-     vertical-align: top;
+      vertical-align: top;
      
 }
 .tres9{
      width: 60px;
-     
-     
-     background-color: blueviolet;
+     background-color: rgba(155,89,182,255);
      color: white;
      vertical-align: top;
 }
 .cuatro9{
-     width: 75px;
-    
-     background-color: darkslategray;
+     width: 60px;
      color: white;
+     background-color: rgba(52,73,94,255);
      vertical-align: top;
 }
 .cinco9{
-     width: 85px;
+     width: 150px;
  
-     background-color: yellow;
+     background-color: rgba(241,196,15,255);
      color: white;
      vertical-align: top;
 }
 .seis9{
-     width: 60px;
+     width: 75px;
     
-     background-color: orange;
+     background-color: rgba(230,126,34,255);
      color: white;
      
 }
 .rectangulo10{
      display:flex;
-     width: 300px; 
-     height: 160px; 
+     width: 600px; 
+     height: 280px; 
      border: 2.5px solid crimson;
     
     
      
 }
 .column{
-     width: 150px; 
-     height: 160px;
+     width: 300px; 
+     height: 300px;
     
 
 }
 .column2{
-     width: 150px; 
-     height: 160px;
+     width: 300px; 
+     height: 300px;
 }
 .uno10{
-     width: 150px;
-     height: 45px;
+     width: 300px;
+     height: 80px;
      
-     background-color: green;
+     background-color: rgba(26,188,156,255);
      color: white;
-     vertical-align: top;
+ 
      order:1;
 }
 .dos10{
-     width: 150px;
-     height: 40px;
-     background-color: blue;
+     width: 300px;
+     height: 80px;
+     background-color: rgba(52,152,219,255);
      color: white;
      
      order:3;
 }
 .tres10{
-     width: 150px;
-     height: 55px;
+     width: 300px;
+     height: 80px;
      order:5;
      
-     background-color: blueviolet;
+     background-color: rgba(155,89,182,255);
      color: white;
-     vertical-align: top;
+     
 }
 .cuatro10{
-     width: 150px;
-     height: 20px;
-     background-color: darkslategray;
+     width: 300px;
+     height: 40px;
+     background-color: rgba(52,73,94,255);
      color: white;
-     vertical-align: top;
+     
      order:6;
 }
 .cinco10{
-     width: 150px;
-     height: 80px;
-     background-color: yellow;
+     width: 300px;
+     height: 140px;
+     background-color: rgba(241,196,15,255);
      color: white;
-     vertical-align: top;
+     
      order:2;
 }
 .seis10{
-     width: 150px;
-     height: 80px;
-     background-color: orange;
+     width: 300px;
+     height: 140px;
+     background-color: rgba(230,126,34,255);
      color: white;
-     vertical-align: top;
+    
      order:4;
      flex-wrap: wrap;
      
